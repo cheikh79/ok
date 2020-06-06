@@ -8,7 +8,7 @@
     "serve": "NODE_ENV=production node dist/index.js"
   },
   "dependencies": {
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "class-transformer": "^0.2.3",
     "express": "^4.17.1",
     "fuse.js": "^5.0.1-beta",
