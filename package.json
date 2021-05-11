@@ -14,7 +14,7 @@
     "fuse.js": "^5.0.1-beta",
     "graphql": "^14.6.0",
     "graphql-tools": "^4.0.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.6",
     "typedi": "^0.8.0"
