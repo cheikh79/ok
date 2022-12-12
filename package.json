@@ -10,7 +10,7 @@
   "dependencies": {
     "apollo-server-express": "^2.11.0",
     "class-transformer": "^0.2.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fuse.js": "^5.0.1-beta",
     "graphql": "^14.6.0",
     "graphql-tools": "^4.0.7",
